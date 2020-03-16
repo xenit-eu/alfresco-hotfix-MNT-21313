@@ -8,7 +8,7 @@ plugins {
 group = "eu.xenit.alfresco"
 description = "Hotfix for MNT-21313, upgrade pdf.js to v1.10.100"
 
-def baseVersion = "1.0.0"
+def baseVersion = "1.0.1"
 
 def branchName = System.env.BRANCH_NAME
 def isRelease = branchName != null && branchName.startsWith("release")

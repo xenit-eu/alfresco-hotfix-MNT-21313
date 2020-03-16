@@ -1,5 +1,8 @@
 ﻿# Alfred Hotfix for MNT-21313 - Changelog
 
+## [1.0.1-UNRELEASED] (yyyy-mm-dd)
+
+
 ## [1.0.0] (2020-03-16)
 
 Initial release of Alfresco Hotfix for MNT-21313
