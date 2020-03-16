@@ -14,6 +14,7 @@ Merge requests for Alfresco 6.x.N have already been merged.
 Alfresco 5.x and 6.x are still using an older version of pdf.js; version 1.5.188 released on 2016-04-21.
 Pdf.js is a popular library for rendering PDF documents. The latest version of pdf.js is version 2.2.228
  released on 2019-07-10. Version 2.2.228 contains a lot of improvements and bugfixes compared to v1.5.188.
+For more details consult the [pdf.sj release log](https://github.com/mozilla/pdf.js/releases)
 
 ## Solution
 
